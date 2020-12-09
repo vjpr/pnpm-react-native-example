@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-react-native",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "delete-node-modules": "pnpm -r exec -- rm -rf node_modules || false"
+  }
+}
